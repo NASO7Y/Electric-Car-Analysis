@@ -13,20 +13,11 @@ The **Electric Car Analysis** project aims to provide comprehensive insights int
 
 ---
 
-## Contents
-1. **[Datasets](#datasets)**: Cleaned and preprocessed datasets for analysis.
-2. **[Scripts](#scripts)**: Python scripts for data analysis and visualization.
-3. **[Results](#results)**: Key findings from the analysis.
-4. **[Documentation](#documentation)**: Detailed documentation and insights from the project.
-
----
-
-## Getting Started
 
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8 or higher
-- Key libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- Key libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ### Installation
 1. Clone the repository:
@@ -50,15 +41,6 @@ Ensure you have the following installed:
 2. View results in the `results/` directory.
 3. Explore visualizations in the `visualizations/` directory.
 
----
-
-## Datasets
-The datasets used in this project include information on:
-- Vehicle specifications (e.g., model, range, battery capacity)
-- Market data (e.g., pricing, sales figures)
-- Environmental metrics (e.g., CO2 reductions, energy usage)
-
-For details, see the [data/README.md](data/README.md).
 
 ---
 
@@ -70,38 +52,10 @@ Key findings from the analysis include:
 
 ---
 
-## Contribution
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
-For questions or feedback, contact **NASO7Y**:
-- GitHub: [NASO7Y](https://github.com/NASO7Y)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+For questions or feedback, feel free to open an issue or reach out to [NASO7Y](https://github.com/NASO7Y).
 
----
 
-## Acknowledgments
-Special thanks to:
-- Data providers and sources.
-- Open-source contributors who made this project possible.
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
